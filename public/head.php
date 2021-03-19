@@ -132,3 +132,5 @@
 </script>
 
 <?php $this->options->JCustomHeadEnd() ?>
+<script><?php $this->options->JCustomeCss();?></script>
+
